@@ -1,0 +1,4 @@
+object
+
+ 1.piece
+ 2.board
